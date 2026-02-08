@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/ErikGIovani/create-express-js#readme",
   "dependencies": {
-    "cross-spawn": "7.0.3",
+    "cross-spawn": "7.0.6",
     "kolorist": "1.7.0",
     "minimist": "1.2.8",
     "prompts": "2.4.2"
